@@ -1,0 +1,2 @@
+# SCUpdater
+Sugar City Updater
